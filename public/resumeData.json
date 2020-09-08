@@ -1,6 +1,6 @@
 {
   "main": {
-    "name": "Sonny Sangha",
+    "name": "Rodgers Chayuga",
     "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
     "image": "IG_Sonny.jpeg",
@@ -19,22 +19,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/chayugarodgers",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/chayuga/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/rodgerschayuga/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/Chayuga",
         "className": "fa fa-github"
       }
     ]
@@ -51,16 +51,22 @@
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Trademark Hotel",
+        "title": "Software Engineer",
+        "years": "May 2017 - Present",
+        "description": "Website and Software Support."
       },
       {
-        "company": "Lindar Media",
+        "company": "Tribe Hotel",
         "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "years": "May 2017 - Present",
+        "description": "Website and Software Support."
+      },
+      {
+        "company": "eZiki",
+        "title": "Web Developer",
+        "years": "January 2016 - April 2017",
+        "description": "Website and App Development."
       }
     ],
     "skills": [
@@ -85,8 +91,8 @@
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "MySQL",
+        "level": "60%"
       }
     ]
   },
